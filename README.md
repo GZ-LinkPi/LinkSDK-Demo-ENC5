@@ -3,7 +3,7 @@
 #### 项目介绍  
 ENC5全功能开发板的演示程序集。ENC5主芯片是海思Hi3531D芯片，外围接口有5xHDMI，HDMI最高分辨率支持4K (3840x2160)。  
 这些Demo是基于 LinkSDK 开发的，工程需要QT支持，在QT环境下编译。  
-LinkSDK的运行库参见：https://github.com/GZ-LinkPi/LinkLib。  
+LinkSDK的运行库参见：https://github.com/GZ-LinkPi/LinkLib 。  
 镜像工程：https://gitee.com/LinkPi/3531D_Demo <ENC5分支>  
 
 #### Decode
@@ -36,7 +36,7 @@ https://item.taobao.com/item.htm?spm=a1z10.1-c-s.w4004-18827270222.2.3f0d6ffdfmi
 These are demos for the ENC5 full-featured development board.  
 The main chip of ENC5 is the Hisilicon Hi3531D. The peripheral interfaces have 5xHDMI. The highest HDMI resolution is 4K (3840x2160).
 These demos are based on LinkSDK, which requires QT support and is compiled in QT environment.  
-LinkSDK runtime library: https://github.com/GZ-LinkPi/LinkLib.  
+LinkSDK runtime library: https://github.com/GZ-LinkPi/LinkLib .  
 Mirror project: https://gitee.com/LinkPi/3531D_Demo <ENC5 branch>     
 
 #### Decode
