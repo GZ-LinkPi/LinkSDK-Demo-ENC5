@@ -37,7 +37,7 @@ These are demos for the ENC5 full-featured development board.
 The main chip of ENC5 is the Hisilicon Hi3531D. The peripheral interfaces have 5xHDMI. The highest HDMI resolution is 4K (3840x2160).
 These demos are based on LinkSDK, which requires QT support and is compiled in QT environment.  
 LinkSDK runtime library: https://github.com/GZ-LinkPi/LinkLib .  
-Mirror project: https://gitee.com/LinkPi/3531D_Demo <ENC5 branch>     
+Mirror project: https://gitee.com/LinkPi/3531D <ENC5 branch>     
 
 #### Decode
 The network stream is decoded and displayed, and the network stream url in the code can be modified.
